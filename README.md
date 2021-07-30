@@ -54,8 +54,13 @@ Here are some ideas to get you started:
   
   <img height="35" width="40"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--6mZZ8973--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/88/kubernetes-badge.png">
   
-  
-
-  
  </div>
+  ##
+ 
+ <div>
+    <a href="https://www.linkedin.com/in/rcalazansn" target="_blank"><img src="https://user-images.githubusercontent.com/6086204/127684111-10beb2a7-bd98-4cf6-83a1-322e756e22c9.png" target="_blank"></a> 
+  </div>
+ 
+ 
+
  
