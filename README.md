@@ -59,15 +59,19 @@ Here are some ideas to get you started:
   ##
  
  <div>
-    <a href="https://www.udemy.com/course/aspnet-core-ef-github-azure" target="_blank">
-     <img height="40" width="40" src="https://user-images.githubusercontent.com/6086204/127684111-10beb2a7-bd98-4cf6-83a1-322e756e22c9.png">
+  <a href="https://rcalazansn.azurewebsites.net/" target="_blank">
+     <img height="40" src="https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-icone-cv.png">
   </a> 
   
-   <a href="https://www.devmedia.com.br/escrevendo-codigos-mais-limpos-em-net/29436" target="_blank">
+  <a href="https://www.udemy.com/course/aspnet-core-ef-github-azure" target="_blank">
+     <img height="40" width="40" src="https://user-images.githubusercontent.com/6086204/127684111-10beb2a7-bd98-4cf6-83a1-322e756e22c9.png">
+  </a> 
+    
+  <a href="https://www.devmedia.com.br/escrevendo-codigos-mais-limpos-em-net/29436" target="_blank">
      <img height="40" src="https://www.devmedia.com.br/Imagens/2013/logo_ass.png">
   </a> 
 
-  
+ 
   </div>
  
  
