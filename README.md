@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   ##
  
  <div>
-    <a href="https://www.udemy.com/course/aspnet-core-ef-github-azure/" target="_blank"><img height="40" width="40" src="https://user-images.githubusercontent.com/6086204/127684111-10beb2a7-bd98-4cf6-83a1-322e756e22c9.png" target="_blank"></a> 
+    <a href="https://www.udemy.com/course/aspnet-core-ef-github-azure/" target="_blank"><img height="40" width="40" src="https://user-images.githubusercontent.com/6086204/127684111-10beb2a7-bd98-4cf6-83a1-322e756e22c9.png"></a> 
   </div>
  
  
