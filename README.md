@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rcalazansn/rcalazansn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +21,10 @@ Here are some ideas to get you started:
 </div>
 -->
 
+<div style="display: inline_block" align="center"><br>
+  <h1>Hi!, I'm Calazans 👋<h1/>
+  
+</div>
 
  
  <div style="display: inline_block" align="center">
