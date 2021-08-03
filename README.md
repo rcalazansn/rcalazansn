@@ -13,9 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div style="display: inline_block" align="center"><br>
+  <h1>Hi!, I'm Calazans!<h1/>
+  <img align="center" alt="Python" height="50" width="60" src="images/python-icon.svg">
+  <img align="center" alt="HTML5" height="50" width="60" src="images/html5-icon.svg">
+  <img align="center" alt="CSS3" height="50" width="60" src="images/css3-icon.svg">
+  <img align="center" alt="Git" height="50" width="60" src="images/git-icon.svg">
+  <img align="center" alt="MySQL" height="50" width="60" src="images/mysql-icon.svg">
+</div>
 -->
 
- <div>
+
+ 
+ <div style="display: inline_block" align="center">
   <a href="https://github.com/rcalazansn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcalazansn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalazansn&layout=compact&langs_count=7&theme=dark"/>
