@@ -18,11 +18,11 @@
   <img align="center" alt="PostgreSql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Kubernetes" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Kubernetes" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="RabbitMQ" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" alt="Azure" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" alt="MondoDB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Flutter" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="AzureDevOps" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg">
   <img align="center" alt="Jenkins" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Arduino" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 
